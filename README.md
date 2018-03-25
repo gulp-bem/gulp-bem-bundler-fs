@@ -1,18 +1,7 @@
 gulp-bem-bundler-fs
 ===================
 
-[![NPM Status][npm-img]][npm]
-[![Travis Status][test-img]][travis]
-[![Coverage Status][coverage-img]][coveralls]
-
-[npm]:          https://www.npmjs.org/package/gulp-bem-bundler-fs
-[npm-img]:      https://img.shields.io/npm/v/gulp-bem-bundler-fs.svg
-
-[travis]:       https://travis-ci.org/gulp-bem/gulp-bem-bundler-fs
-[test-img]:     https://img.shields.io/travis/gulp-bem/gulp-bem-bundler-fs.svg
-
-[coveralls]:    https://coveralls.io/r/gulp-bem/gulp-bem-bundler-fs
-[coverage-img]: https://img.shields.io/coveralls/gulp-bem/gulp-bem-bundler-fs.svg
+*DEPRECATED repository, moved to mono repository [gulp-bem](https://github.com/bem/gulp-bem/tree/master/packages/gulp-bem-bundler-fs)*
 
 Install
 -------
